@@ -1,0 +1,6 @@
+﻿  MathModel.cpp
+C:\Users\Lida\source\repos\MathModel\MathModel\MathModel.cpp(38,22): warning C4552: '>': result of expression not used
+C:\Users\Lida\source\repos\MathModel\MathModel\MathModel.cpp(46,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lida\source\repos\MathModel\MathModel\MathModel.cpp(83,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lida\source\repos\MathModel\MathModel\MathModel.cpp(87,21): warning C4552: '>': result of expression not used
+  MathModel.vcxproj -> C:\Users\Lida\source\repos\MathModel\x64\Debug\MathModel.exe
